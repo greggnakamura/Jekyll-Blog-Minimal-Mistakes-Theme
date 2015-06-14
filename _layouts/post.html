@@ -13,6 +13,7 @@
 
 {% include _navigation.html %}
 
+{% comment %}
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
@@ -27,6 +28,7 @@
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
+{% endcomment %}
 
 <div id="main" role="main">
   <div class="article-author-side">
@@ -71,7 +73,7 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}	        
+{% include _scripts.html %}
 
 </body>
 </html>
