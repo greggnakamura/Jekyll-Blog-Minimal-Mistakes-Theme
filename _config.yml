@@ -27,14 +27,14 @@ kramdown:
 # Site owner
 owner:
   name: Gregg K Nakamura
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  avatar: me.jpg
+  bio: "Web Developer. I also like watching cars with numbers on them going around in circles"
   email: gregg.nakamura@gmail.com
   disqus-shortname: greggnakamura
   twitter: greggnakamura
   facebook: #username
   google:
-    plus: +GreggNakamura
+    plus: GreggNakamura
     analytics:
     verify:
     ad-client:
