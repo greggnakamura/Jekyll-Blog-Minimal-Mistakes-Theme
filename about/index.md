@@ -1,20 +1,13 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About Me
+tags: [about]
 comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Currently, I work remotely for [Wakefly, Inc.](http://www.wakefly.com/), a Boston, MA based online marketing firm. I am an Full Stack, Front End focused, Developer.
+Currently work remotely for a Boston based marketing firm ([Wakefly, Inc.](http://www.wakefly.com/)), living in sunny Los Angeles, CA. As a small company, we are tasked with everything in between from design to web development to building marketing based solutions. I am an Full Stack, Front-End focused, Developer.
 
-I use my [Twitter Favorites](https://twitter.com/greggnakamura/favorites) quite a bit to flag mostly development related items as a personal resource. I'm also a regular reader of [Nettuts](https://code.tutsplus.com/), [Smashing Magazine](http://www.smashingmagazine.com/), and [SitePoint](http://www.sitepoint.com/).
-
-In my spare time I participate in coding challenges ([CodeEval](https://www.codeeval.com/) and [HackerRank](https://www.hackerrank.com/)), [take training courses](http://www.pluralsight.com/), and attend developer related [MeetUps](http://www.meetup.com/find/events/?allMeetups=false&keywords=web+development&radius=50&userFreeform=Los+Angeles%2C+CA&mcId=z90001&mcName=Los+Angeles%2C+CA&eventFilter=mysugg).
+In my spare time I participate in coding challenges ([CodeEval](https://www.codeeval.com/) and [HackerRank](https://www.hackerrank.com/)), [take training courses](http://www.pluralsight.com/), and attend developer related [MeetUps](http://www.meetup.com/find/events/?allMeetups=false&keywords=web+development&radius=50&userFreeform=Los+Angeles%2C+CA&mcId=z90001&mcName=Los+Angeles%2C+CA&eventFilter=mysugg). I also try to keep up with things on a daily basis, tagging interesting topics on my [Twitter account](https://twitter.com/greggnakamura/favorites). 
 
 ---
 
