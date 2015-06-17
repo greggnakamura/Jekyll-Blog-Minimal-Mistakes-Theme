@@ -8,7 +8,7 @@ comments: true
 
 I've been a full time remote employee since mid 2010 and, I love it, but, it has been a bit of an up and down roller coaster ride.
 
-The initial thrill of it ended pretty early for me as I found the overall challenges tougher than I would have ever imagined. For one, the comfort of being able to walk over to another developer to discuss a problem was gone. I also couldn't visually see who was busy and who was not, leaving me with no sense of the environment. Most importantly, I was now missing out on the spontaneous discussions of code, work, and office life in general.
+The initial thrill of it ended pretty early for me as I found the overall challenges tougher than I would have ever imagined. For one, the comfort of being able to walk over to another developer to discuss a problem was gone. I couldn't visually see who was busy and who was not, leaving me with no sense of the environment. Most importantly, I was now missing out on the spontaneous discussions of code, work, and office life in general.
 
 As for my office, when your home becomes 'it', perspectives change to say the least. You begin to think about what you can and can't do in your own house.
 
@@ -19,12 +19,12 @@ As for my office, when your home becomes 'it', perspectives change to say the le
 - TV OFF!!
 - ELIMINATE ALL DISTRACTIONS!!!
 
-I realize the items above are my own unique use case, but I think you get the gist. Working remotely changes your comfort zone, and in a lot of ways, makes your job even harder.
+I realize the items above are my own unique use case, but I think you get the gist. Remote work changes your comfort zone, and in a lot of ways, makes your job even harder.
 
 Working ~3,000 miles from my main office (Massachusetts) makes it difficult to 'pop-in' from time to time, so I've made some adjustments for work and my clients.
 
 - I'm available during East Coast hours
-- I'm 'online' via Skype and participate is chats as best as I can
+- I'm online via Skype and participate is chats as best as I can
 - Use video to humanize myself
 - Actively reach out to my PMs on a regular basis
 - Attend all applicable office and client meetings
